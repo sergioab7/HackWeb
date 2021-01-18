@@ -8,7 +8,7 @@
 
 <h1>HackWeb</h1>
 
-Con esta herramienta puedes hacer un reconocimmiento común y básico de cada página web en tan solo unos segundos.
+Con esta herramienta puedes hacer un reconocimiento común y básico de cada página web en tan solo unos segundos.
 
 La herramienta está separada en diferentes módulos: <b>Network</b>,<b>DNS</b>,<b>IP</b> y <b>Web tools</b>
 
